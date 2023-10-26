@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**DAT-995/DAT-995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
