@@ -2,7 +2,7 @@
 
 🔭  I’m currently working on POWER BI
 
-You can see my results here:
+You can see my preliminary here:
 
 ![DAT-995]("https://app.powerbi.com/view?r=eyJrIjoiYTAzNTFkMTMtOGJmMC00MmUyLTkzNDItNTgzM2Y3ZjQyMDRkIiwidCI6IjMyOGJkMzc4LTJiNDItNDAyMS05ODQyLTgyN2FiNmU4M2Y0ZiIsImMiOjh9&pageName=ReportSection76666d4462fd038e8433")
 
