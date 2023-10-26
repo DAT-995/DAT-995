@@ -2,7 +2,7 @@
 
 🔭  I’m currently working on POWER BI
 
-![crguezl stats](https://github-readme-stats.vercel.app/api?username=crguezl&show_icons=true&locale=en)
+![DAT-995 status](https://github-readme-stats.vercel.app/api?username=DAT-995&show_icons=true&locale=en)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
