@@ -10,3 +10,6 @@ You can see my preliminary here:
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+Frutas | Verduras
+       |
+
