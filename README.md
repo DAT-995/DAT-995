@@ -1,14 +1,10 @@
 ### Bienvenido 👋
 
+Mi nombre es David Alonso,actualmente me encuentro estudiando el Máster en Formación del Profesorado 23/24. En la asignatura de Aprendizaje y Enseñanza de la Tecnología me encuentro aprendiendo Github  y estas son mis estadísticas 
 
-
-You can see my preliminary here:
-
-![("https://app.powerbi.com/view?r=eyJrIjoiYTAzNTFkMTMtOGJmMC00MmUyLTkzNDItNTgzM2Y3ZjQyMDRkIiwidCI6IjMyOGJkMzc4LTJiNDItNDAyMS05ODQyLTgyN2FiNmU4M2Y0ZiIsImMiOjh9&pageName=ReportSection76666d4462fd038e8433")]
 
 ![DAT-995 status](https://github-readme-stats.vercel.app/api?username=DAT-995&show_icons=true&locale=en)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
 |Frutas | Verduras|
 |-------|-------  |
