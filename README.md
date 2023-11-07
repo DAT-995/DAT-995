@@ -5,6 +5,7 @@ Mi nombre es David Alonso,actualmente me encuentro estudiando el Máster en Form
 
 ![DAT-995 status](https://github-readme-stats.vercel.app/api?username=DAT-995&show_icons=true&locale=en)
 
+Hasta el momento estas son las actividades que he realizado en el entorno GITHUB
 
 |Actividades GITHUB| Estado|
 |-------|-------  |
