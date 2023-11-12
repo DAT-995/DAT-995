@@ -18,5 +18,5 @@ Hasta el momento estas son las actividades que he realizado en el entorno GITHUB
 |Creación de Aula    | :white_check_mark:     |
 |Creación de primera tarea    |:white_check_mark:|
 
-Puedes en el equipo que trabajo aquí :point_right:  ![Departamento](https://github.com/ULL-MFP-AET-2324/equipos-eq-david-joana)
+Puedes ver el equipo que trabajo aquí :point_right:  ![Departamento](https://github.com/ULL-MFP-AET-2324/equipos-eq-david-joana)
 
